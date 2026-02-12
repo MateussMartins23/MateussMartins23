@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente aprendendo:<br>Aprofundando conhecimentos em desenvolvimento backend, com foco na construção de APIs REST, regras de negócio, integração com bancos de dados SQL e boas práticas de arquitetura, além de evolução contínua no desenvolvimento de interfaces com React.<br><br>🎯Objetivos:<br>Consolidar minha entrada no mercado de tecnologia por meio de uma oportunidade como estagiário ou desenvolvedor júnior, contribuindo ativamente em projetos reais, enquanto evoluo tecnicamente rumo à atuação completa como desenvolvedor full-stack.</p>
+<p align="left">📚 Atualmente aprendendo:<br>Aprofundando conhecimentos em desenvolvimento backend, com foco na construção de APIs REST, regras de negócio, integração com bancos de dados SQL e boas práticas de arquitetura, além de evolução contínua no desenvolvimento de interfaces com React.<br><br>🎯Objetivos:<br>Consolidar minha entrada no mercado de tecnologia, contribuindo ativamente em projetos reais, enquanto evoluo tecnicamente rumo à atuação completa como desenvolvedor.</p>
 
 ###
 
