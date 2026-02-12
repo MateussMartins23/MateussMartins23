@@ -1,5 +1,11 @@
 <h1 align="left">👋 Olá!</h1>
 
+<div align="right">
+  <a href="https://www.linkedin.com/in/mateus-martins-python-sql-web/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
 
 <p align="left">Meu nome é Mateus Martins, sou estudante de Sistemas de Informação e desenvolvedor em formação.</p>
